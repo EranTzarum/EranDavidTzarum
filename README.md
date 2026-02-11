@@ -56,11 +56,5 @@ Here are the tools and technologies I work with:
 
 ### 🤝 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/eran-david-tzarum/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eran-david-tzarum" />
-</a>
-<a href="eran.davidtz@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eran-david-tzarum/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eran.davidtz@gmail.com)
