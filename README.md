@@ -1,6 +1,6 @@
 # Hi there, I'm Eran David Tzarum 👋
 
-### 🚀 Software Engineer & Entrepreneur | B.Sc. CS Graduate (95+ Avg)
+### 🚀 Software Engineer & Entrepreneur | B.Sc. CS Graduate
 
 I am a developer who combines deep technical knowledge with an entrepreneurial mindset. My passion lies in building scalable systems, solving complex algorithmic problems, and turning ideas into products.
 
@@ -38,7 +38,7 @@ Here are the tools and technologies I work with:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EranDavidTzarum&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Eran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EranTzarum&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Eran's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EranDavidTzarum&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
