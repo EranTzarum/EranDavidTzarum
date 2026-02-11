@@ -38,12 +38,12 @@ Here are the tools and technologies I work with:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EranTzarum&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Eran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EranTzarum&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EranTzarum&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Eran's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EranTzarum&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EranTzarum&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=EranTzarum&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
