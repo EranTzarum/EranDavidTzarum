@@ -2,11 +2,12 @@
 
 ### Full Stack Software Developer | AI-Native Engineer | B.Sc. CS Graduate
 
-I build scalable, production-ready systems by combining strong computer science fundamentals with advanced agentic AI workflows. I don't just write code; I orchestrate it. By leveraging tools like Cursor and Claude Code, I act as the system architect: designing multi-agent workflows that accelerate development cycles by 10x, while retaining 100% ownership over architecture, logic, and code quality.
+I build scalable, production-ready systems by combining strong computer science fundamentals with advanced agentic AI workflows. I don't just write code; I orchestrate it. By leveraging tools like Cursor, Claude Code, and Codex, I act as the system architect: designing multi-agent workflows that accelerate development cycles by 10x, while retaining 100% ownership over architecture, logic, and code quality.
 
 - 🔭 **Currently working on:** A production multi-tenant RealEstate CRM and architecting the next-gen AI platform for SmartFridge.
 - 🎓 **Education:** B.Sc. in Computer Science (Final Year Grade: 96.6) while serving 200+ days in active operational reserve duty.
-- 💡 **Key Expertise:** Full Stack Development (React/Node.js), Applied AI & ML pipelines, PostgreSQL Row-Level Security.
+- 💡 **Achievements:** Lead Developer of SmartFridge, Creator of TimeSkip AI Assessment.
+- 🔑 **Key Expertise:** Full Stack Development (React/Node.js), Applied AI & ML pipelines, PostgreSQL Row-Level Security.
 - ⚡ **Motto:** Code. Build. Automate. Solve Real Problems.
 
 <div align="center">
@@ -64,6 +65,7 @@ Here are the tools and technologies I work with:
   <img src="https://img.shields.io/badge/Agentic_Workflows-FF9900?style=for-the-badge&logo=robot&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-0058A0?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
